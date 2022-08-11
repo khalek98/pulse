@@ -2,9 +2,6 @@
 
 # dependencies
 /node_modules
-# /src/sass
-/src/fonts/icomoon-v1.0.zip
-/src/fonts/MuseoSans.zip
 
 # testing
 /coverage
